@@ -18,3 +18,6 @@ COACHTECH 教材 Tutorial 11-1「API開発環境の構築と疎通確認」で�
 ## 確認結果
 - HTTPステータス: 200 OK
 - レスポンス本文
+<img width="1858" height="1343" alt="image" src="https://github.com/user-attachments/assets/ecf18542-0b48-4ab1-8e6f-332851ef6128" />
+<img width="1859" height="1441" alt="image" src="https://github.com/user-attachments/assets/bb0260ca-579c-4f93-99d6-ac8f7880f914" />
+
